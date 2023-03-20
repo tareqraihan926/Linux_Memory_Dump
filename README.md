@@ -1,5 +1,5 @@
 <p align="justify">
-<h2 align="center">Analysis of the Linux Memory Dump</h2>
+<h1 align="center">Analysis of the Linux Memory Dump</h1>
 
 
 <!--
